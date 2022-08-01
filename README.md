@@ -1,5 +1,5 @@
- <h1 align="center">Jogoteca</h1>
- <p align="center">O objetivo da jogoteca é fazer uma tabela de jogos personalizável</p>
+ <h1 align="center"> 🧡 Jogoteca 🧡 </h1>
+ <p align="center">🟠 O objetivo da jogoteca é fazer uma tabela de jogos personalizável !! 🟠</p>
  <h1 align="center">🔶  Descrição  🔶</h1>
  <p align="center">🔶 Construção de uma tabela personalizável</p>
  <p align="center">🔶 Linguagem : Python, Java Script, CSS </p>
