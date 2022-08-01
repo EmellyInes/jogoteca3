@@ -6,4 +6,4 @@
  <p align="center">🔶 Promovido por : IFMG SABARÁ </p>
  <p align="center">🔶 Data de início : 01/07/22 </p>
  <h1 align="center"> 🟧 Autor 🟧 </h1>
- <p align="center"> <a href = "https://github.com/EmellyInes"> Emelly Inês </a>
+ <p align="center"> <a href = "https://github.com/EmellyInes"> 🟧 Emelly Inês </a>
