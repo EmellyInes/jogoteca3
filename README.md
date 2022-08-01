@@ -5,5 +5,6 @@
  <p align="center">🔶 Linguagem : Python, Java Script, CSS </p>
  <p align="center">🔶 Promovido por : IFMG SABARÁ </p>
  <p align="center">🔶 Data de início : 01/07/22 </p>
+ <p align="center">🔶 Como usar : O usuário deve se cadastrar e colocar o nome de alguns jogos, por onde joga e o modo de jogo. </p>
  <h1 align="center"> 🟧 Autor 🟧 </h1>
  <p align="center"> <a href = "https://github.com/EmellyInes"> 🟧 Emelly Inês </a>
