@@ -8,8 +8,7 @@
  <p align="left">🔶 Linguagem : Python, Java Script, CSS </p>
  <p align="left">🔶 Promovido por : IFMG SABARÁ </p>
  <p align="left">🔶 Data de início : 01/07/22 </p>
-  <h1 align="center">🎮  Preview 🎮</h1>
-  
  <h1 align="center"> 🟧 Autor 🟧 </h1>
  <p align="center"> <a href = "https://github.com/EmellyInes"> 🟧 Emelly Inês </a>
 
+![EU](https://user-images.githubusercontent.com/108816211/182630770-a52cf4ac-9d3f-4bea-a1e0-73b166342e94.jpg)
