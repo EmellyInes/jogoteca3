@@ -1,4 +1,8 @@
+ <div align="center">
+ 
  <a href="https://github.com/EmellyInes?tab=repositories" align="center">![games](https://user-images.githubusercontent.com/108816211/182234417-3accc36d-cc83-40fa-a8de-419f2e026681.png)</a>
+ 
+ </div>
  <h1 align="center"> 🕹 Jogoteca 🕹 </h1>
  <p align="center">🟠 O objetivo da jogoteca é fazer uma tabela de jogos personalizável !! 🟠</p>
  <h1 align="center">🔶  Descrição  🔶</h1>
@@ -13,6 +17,9 @@
  <p align="left"> <a href = "https://github.com/EmellyInes"> 🟧 Instagram </a>
  <p align="left"> <a href = "https://github.com/EmellyInes"> 🟧 Facebook </a>
  <p align="left"> <a href = "https://github.com/EmellyInes"> 🟧 Gmail </a>
+ 
+<div align="center">
 
 ![EU](https://user-images.githubusercontent.com/108816211/182630770-a52cf4ac-9d3f-4bea-a1e0-73b166342e94.jpg)
 
+</div>
