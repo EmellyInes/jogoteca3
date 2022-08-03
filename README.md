@@ -2,11 +2,11 @@
  <h1 align="center"> 🧡 Jogoteca 🧡 </h1>
  <p align="center">🟠 O objetivo da jogoteca é fazer uma tabela de jogos personalizável !! 🟠</p>
  <h1 align="center">🔶  Descrição  🔶</h1>
- <p align="center">🔶 Como usar : O usuário deve se cadastrar e colocar o nome de alguns jogos, por onde joga e o modo de jogo. </p>
- <p align="center">🔶 Construção de uma tabela personalizável</p>
- <p align="center">🔶 Linguagem : Python, Java Script, CSS </p>
- <p align="center">🔶 Promovido por : IFMG SABARÁ </p>
- <p align="center">🔶 Data de início : 01/07/22 </p>
+ <p align="left">🔶 Como usar : O usuário deve se cadastrar e colocar o nome de alguns jogos, por onde joga e o modo de jogo. </p>
+ <p align="left">🔶 Construção de uma tabela personalizável</p>
+ <p align="left">🔶 Linguagem : Python, Java Script, CSS </p>
+ <p align="left">🔶 Promovido por : IFMG SABARÁ </p>
+ <p align="left">🔶 Data de início : 01/07/22 </p>
  <h1 align="center"> 🟧 Autor 🟧 </h1>
  <p align="center"> <a href = "https://github.com/EmellyInes"> 🟧 Emelly Inês </a>
 
