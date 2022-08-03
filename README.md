@@ -12,6 +12,9 @@
  <p align="left">🔶 Linguagem : Python, Java Script, CSS </p>
  <p align="left">🔶 Promovido por : IFMG SABARÁ </p>
  <p align="left">🔶 Data de início : 01/07/22 </p>
+ <h1 align="center">🔔  Status  🔔</h1>
+ <p align="center"> 🟡⚠ Em construção ⚠🟡  </p>
+ 
  <h1 align="center"> 🟧 Autor 🟧 </h1>
  <p align="left"> <a href = "https://github.com/EmellyInes"> 🟧 Emelly Inês </a>
  <p align="left"> <a href = "https://github.com/EmellyInes"> 🟧 Instagram </a>
